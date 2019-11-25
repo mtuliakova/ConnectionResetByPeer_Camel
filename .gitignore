@@ -1,0 +1,10 @@
+.classpath
+.project
+.settings
+.studio
+target
+
+testFile.testCache
+target
+*.iml
+.idea
